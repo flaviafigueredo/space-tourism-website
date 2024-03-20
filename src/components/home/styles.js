@@ -34,7 +34,9 @@ export const Content = styled.div`
 
     @media(max-width: 430px) {
         width: 327px;
+
         margin-bottom: 80px;
+        
     }
 
     @media(max-width: 320px) {
@@ -105,6 +107,24 @@ export const Button = styled.button`
     @media(max-width: 1024px) {
         width: 242px;
         height: 242px;
+    }
+
+    @media(max-width: 414px) {
+        &:hover {
+            box-shadow: 0 0 0 30px rgba(151, 151, 151, 0.2);
+        }
+    }
+
+    @media(max-width: 384px) {
+        width: 150px;
+        height: 150px;
+        font-size: 20px;
+    }
+
+    @media(max-width: 320px) {
+        &:hover {
+            box-shadow: 0 0 0 10px rgba(151, 151, 151, 0.2);
+        }
     }
 
     @media(max-width: 280px) {
