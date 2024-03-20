@@ -13,7 +13,7 @@ O desafio consiste em criar um site de turismo espacial com várias páginas res
 ### Links
 
 - [Solução](https://github.com/flaviafigueredo/space-tourism-website)
-- [Deploy]()
+- [Deploy](https://space-tourism-flaviafigueredos-projects.vercel.app/)
 
 
 ### Tecnologias Utilizadas
